@@ -1,0 +1,58 @@
+html{
+	background-color : black;
+	display: flex;
+	justify-content: center;
+	font-family: serif;
+	font-size: 150%;
+	background-image: url("imageKowai.jpeg");
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
+	
+}
+
+h1, h2, h3, p, ul,img{
+		color : white;
+}
+
+h1{
+	text-align: center;
+	color : red;
+}
+
+h2, h3{
+	color: red;
+}
+
+
+
+div{
+	margin: 100px;
+	padding: 25px;
+	border: 2px;
+	border-style: dotted dotted dotted dotted;
+	border-color : white;
+	background-color: black;
+}
+
+h1, h2, h3, p{
+		text-align: center;
+		text-shadow: 4px 2.5px 10px pink;
+}
+
+p, ul{
+	text-shadow:5px 2.5px 10px white;
+}
+
+
+img{
+width: 800px;
+}
+
+
+
+
+
+
+
+
