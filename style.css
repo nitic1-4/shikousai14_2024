@@ -4,6 +4,8 @@ html{
 	justify-content: center;
 	font-family: serif;
 	font-size: 150%;
+	background-image:url(wall.jpg);
+	background-size:contain;
 }
 
 h1, h2, h3, p, ul,img{
